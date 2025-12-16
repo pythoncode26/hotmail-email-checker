@@ -1,7 +1,7 @@
 # Hotmail Email Checker
 # Hotmail电子邮件检查器
 
-![Hotmail Email Checker](https://raw.githubusercontent.com/pycoding20/hotmail-email-validator/refs/heads/main/hotmail-email-validator.png)
+![Hotmail Email Checker](https://raw.githubusercontent.com/pythoncode26/hotmail-email-checker/refs/heads/main/hotmail-email-validator.png)
 
 ### Supported Countries and Hotmail Domains
 
